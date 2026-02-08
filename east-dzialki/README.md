@@ -1,7 +1,9 @@
 # 🏰 east-dzialki - Zaawansowany System Działek
 
 **east-dzialki** to nowoczesny i estetyczny plugin na serwery Minecraft (Paper 1.20.1+), który umożliwia graczom tworzenie i zarządzanie własnymi terenami o wymiarach 50x50 kratek. Plugin stawia na immersję, wykorzystując niestandardowe receptury craftingu, hologramy, bossbary oraz eleganckie menu GUI.
-
+<img width="701" height="294" alt="Zrzut ekranu 2026-02-08 184521" src="https://github.com/user-attachments/assets/8586956f-b5d6-404f-b29f-a93e4e965f48" />
+<img width="857" height="699" alt="Zrzut ekranu 2026-02-08 184452" src="https://github.com/user-attachments/assets/70597877-6d05-4d6a-a176-254877a861fb" />
+<img width="681" height="502" alt="Zrzut ekranu 2026-02-08 184526" src="https://github.com/user-attachments/assets/a02d8da0-5fb3-4947-b0db-ae1169764cf4" />
 ## ✨ Główne Funkcje
 
 ### 🛠️ Unikalny System Tworzenia
@@ -30,6 +32,7 @@
 
 | Komenda | Opis |
 |---------|------|
+
 | `/dzialka` | Wyświetla menu pomocy. |
 | `/dzialka stworz` | Alternatywna metoda tworzenia (głównie admin). |
 | `/dzialka dom [id]` | Teleportuje do działki. Otwiera GUI wyboru, jeśli gracz ma ich więcej. |
