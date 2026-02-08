@@ -1,29 +1,17 @@
-## Gallery
+## Image Gallery
 
-### 1. Serce działki (heart)
-![Serce działki](./images/serce_dzialki.jpg "Serce działki")
-Description: This image represents the heart of the plot.
+### 1. Serce działki - hologram właściciela
+![Serce działki - hologram właściciela](https://example.com/screenshot1.png)
+This image shows the hologram representation of the owner of the land. It is designed to provide an interactive experience, enhancing the visualization of ownership.
 
-### 2. Panel zarządzania
-![Panel zarządzania](./images/panel_zarzadzania.jpg "Panel zarządzania")
-Description: The management panel that controls various settings.
+### 2. Panel zarządzania działką
+![Panel zarządzania działką](https://example.com/screenshot2.png)
+Here, we have the land management panel, where users can adjust settings and manage various aspects of their property.
 
-### 3. Panel ważności
-![Panel ważności](./images/panel_waznosci.jpg "Panel ważności")
-Description: This panel indicates the importance of different elements.
+### 3. Lista członków działki
+![Lista członków działki](https://example.com/screenshot3.png)
+This screenshot displays the list of members of the land, showing their roles and contributions to the community.
 
-### 4. Panel członków
-![Panel członków](./images/panel_czlonek.jpg "Panel członków")
-Description: The members panel showing active participants.
-
-### 5. Przepis craftingu
-![Przepis craftingu](./images/przepis_crafting.jpg "Przepis craftingu")
-Description: The crafting recipe for various items.
-
-### 6. Chat help
-![Chat help](./images/chat_help.jpg "Chat help")
-Description: The help chat interface for user queries.
-
-### 7. Panel usuwania
-![Panel usuwania](./images/panel_usuwania.jpg "Panel usuwania")
-Description: The deletion panel for managing resources.
+### 4. Tooltip informacji o członku
+![Tooltip informacji o członku](https://example.com/screenshot4.png)
+The tooltip provides detailed information about each member when interacted with, helping to understand their contributions better.
