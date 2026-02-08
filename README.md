@@ -1,17 +1,14 @@
-## Image Gallery
+# 🎮 Minecraft Plugins Portfolio
 
-### 1. Serce działki - hologram właściciela
-![Serce działki - hologram właściciela](https://example.com/screenshot1.png)
-This image shows the hologram representation of the owner of the land. It is designed to provide an interactive experience, enhancing the visualization of ownership.
+## Description
+This portfolio showcases various Minecraft plugins developed for different functionalities and enhancements.
 
-### 2. Panel zarządzania działką
-![Panel zarządzania działką](https://example.com/screenshot2.png)
-Here, we have the land management panel, where users can adjust settings and manage various aspects of their property.
+## Projects
+1. [East-Dzialki](./east-dzialki/) - A comprehensive plugin for managing plots of land.
+2. East-Magazyn - Coming soon.
+3. East-Enderchest - Coming soon.
 
-### 3. Lista członków działki
-![Lista członków działki](https://example.com/screenshot3.png)
-This screenshot displays the list of members of the land, showing their roles and contributions to the community.
+## Author
+AXOO
 
-### 4. Tooltip informacji o członku
-![Tooltip informacji o członku](https://example.com/screenshot4.png)
-The tooltip provides detailed information about each member when interacted with, helping to understand their contributions better.
+**Last updated**: 2026-02-08 18:03:06 UTC
