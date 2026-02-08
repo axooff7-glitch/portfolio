@@ -48,9 +48,10 @@
 - `dzialka.limit.3` - Zwiększa limit działek do 3 (SVIP).
 - `dzialka.limit.4` - Zwiększa limit działek do 4 (MVIP).
 ## ScreenShoty
+<img width="857" height="699" alt="Zrzut ekranu 2026-02-08 184452" src="https://github.com/user-attachments/assets/8c985a8d-98a4-466c-b7cb-ca588616da1b" />
 <img width="681" height="502" alt="Zrzut ekranu 2026-02-08 184526" src="https://github.com/user-attachments/assets/dbbae5b5-2a78-49d3-83dd-32720b93d097" />
 <img width="701" height="294" alt="Zrzut ekranu 2026-02-08 184521" src="https://github.com/user-attachments/assets/b3c7b413-9f34-49d1-ab0a-7b5975eb89ae" />
-<img width="857" height="699" alt="Zrzut ekranu 2026-02-08 184452" src="https://github.com/user-attachments/assets/8c985a8d-98a4-466c-b7cb-ca588616da1b" />
+
 
 
 ## 🚀 Instalacja
