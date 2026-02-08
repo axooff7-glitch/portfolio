@@ -51,6 +51,10 @@
 <img width="857" height="699" alt="Zrzut ekranu 2026-02-08 184452" src="https://github.com/user-attachments/assets/8c985a8d-98a4-466c-b7cb-ca588616da1b" />
 <img width="681" height="502" alt="Zrzut ekranu 2026-02-08 184526" src="https://github.com/user-attachments/assets/dbbae5b5-2a78-49d3-83dd-32720b93d097" />
 <img width="701" height="294" alt="Zrzut ekranu 2026-02-08 184521" src="https://github.com/user-attachments/assets/b3c7b413-9f34-49d1-ab0a-7b5975eb89ae" />
+<img width="449" height="420" alt="Zrzut ekranu 2026-02-08 184611" src="https://github.com/user-attachments/assets/aaeb3dfb-7882-4e65-a5f5-8272d57a1534" />
+<img width="1625" height="604" alt="Zrzut ekranu 2026-02-08 184600" src="https://github.com/user-attachments/assets/eb48b006-5428-4c31-8141-2fc93e9b7df8" />
+<img width="960" height="371" alt="Zrzut ekranu 2026-02-08 184539" src="https://github.com/user-attachments/assets/61c749ad-0c94-40cc-aa04-633314295c18" />
+<img width="754" height="338" alt="Zrzut ekranu 2026-02-08 184535" src="https://github.com/user-attachments/assets/3680a4b0-99c1-4bd3-9082-bd406edd62b7" />
 
 
 
