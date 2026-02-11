@@ -16,5 +16,12 @@ Serce serwera. axoo-core to wysoce wydajny plugin typu essentials, który zarzą
 
 Ogromny zestaw ponad 100 komend pokrywający wszystkie potrzeby serwerowe. Szczegółowe uprawnienia pozwalają na precyzyjną kontrolę nad każdą funkcją.
 
+## Galeria
+<img width="454" height="414" alt="Zrzut ekranu 2026-02-11 191104" src="https://github.com/user-attachments/assets/fb7da9dd-9e1b-4e9a-a464-3411e7d75f7e" />
+
+<img width="682" height="507" alt="Zrzut ekranu 2026-02-11 191047" src="https://github.com/user-attachments/assets/22a3d897-45f5-4023-b341-f34549250415" />
+<img width="760" height="421" alt="Zrzut ekranu 2026-02-11 191057" src="https://github.com/user-attachments/assets/6e073961-2e45-40b1-8ac5-441e1f9c8ca8" />
+<img width="584" height="425" alt="Zrzut ekranu 2026-02-11 191052" src="https://github.com/user-attachments/assets/10ef4cb5-d99d-42fb-b893-1f001b0dd23d" />
 ---
 *Stworzone przez AXOO*
+
