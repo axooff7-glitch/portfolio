@@ -1,4 +1,4 @@
-# 🎮 AXOO Plugins Portfolio
+#  AXOO Plugins Portfolio
 
 ## Opis
 Witaj w moim repozytorium! Znajdziesz tutaj zbiór autorskich pluginów, stworzonych z myślą o optymalizacji i unikalnych funkcjach dla serwerów Minecraft.
