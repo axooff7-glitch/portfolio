@@ -1,13 +1,13 @@
-# 🎮 Minecraft Plugins Portfolio
+# 🎮 AXOO Plugins Portfolio
 
 ## Description
-This portfolio showcases various Minecraft plugins developed for different functionalities and enhancements.
+Witaj w moim repozytorium! Znajdziesz tutaj zbiór autorskich pluginów, stworzonych z myślą o optymalizacji i unikalnych funkcjach dla serwerów Minecraft.
 
 ## Projects
-1. [East-Dzialki](./east-dzialki/) - A comprehensive plugin for managing plots of land.
+1. [East-Dzialki](./east-dzialki/) - Plugin na działki.
 2. East-Magazyn - Coming soon.
 3. East-Enderchest - Coming soon.
-
+4. [Axoo-Core](./Axoo-Core/) - Plugin podstawa pod serwer (sklep, rynek, kity, home)
 ## Author
 AXOO
 
