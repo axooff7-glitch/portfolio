@@ -1,0 +1,20 @@
+# axoo-core 🗝️
+
+Serce serwera. axoo-core to wysoce wydajny plugin typu essentials, który zarządza wszystkimi fundamentalnymi mechanikami serwera – od teleportacji, przez ekonomię, aż po moderację.
+
+## ✨ Funkcje
+
+- **🛡️ Kompleksowe Narzędzia Admina**: Vanish, GodMode, Szybkość, Invsee, Endersee oraz wielofunkcyjne komendy moderacyjne (Kick, zarządzanie czatem).
+- **🏠 System Domów i Teleportacji**: Rozbudowany system /home z limitami rang, TPA, Warpami i zarządzaniem Spawnem.
+- **💰 Wbudowana Ekonomia**: Lekki system ekonomii z /pay, /bal oraz administracyjną kontrolą /eco.
+- **💬 Zaawansowany Czat**: Funkcje czyszczenia czatu, przełączania widoczności oraz ogłoszeń (na czacie i na środku ekranu).
+- **🏪 Sklep i Rynek**: Zintegrowany sklep serwerowy (/sklep) oraz Rynek Graczy (/rynek).
+- **🛠️ Komendy Narzędziowe**: Szybki dostęp do Workbencha, Kowadła, EnderChesta, Leczenia (Heal), Karmienia (Feed) i Latania (Fly).
+- **🌐 Lokalizacja**: Wsparcie dla wielu języków (PL/EN), pozwalające graczom na wybór preferowanego języka interfejsu.
+
+## 🚀 Komendy i Uprawnienia
+
+Ogromny zestaw ponad 100 komend pokrywający wszystkie potrzeby serwerowe. Szczegółowe uprawnienia pozwalają na precyzyjną kontrolę nad każdą funkcją.
+
+---
+*Stworzone przez AXOO*
