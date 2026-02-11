@@ -6,7 +6,7 @@ Witaj w moim repozytorium! Znajdziesz tutaj zbiór autorskich pluginów, stworzo
 ## Moje projekty
 1. [East-Dzialki](./east-dzialki/) - Plugin na działki.
 2. [East-Magazyn](./East-Magazyn/) - Plugin na Magazyny
-3. East-Enderchest - Coming soon.
+3. [Axoo-Enderchest](./Axoo-Enderchest) - Plugin na Powiększone enderchesty.
 4. [Axoo-Core](./Axoo-Core/) - Plugin podstawa pod serwer (sklep, rynek, kity, home)
 ## Autor
 AXOO
