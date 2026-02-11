@@ -14,5 +14,10 @@ Skalowalny system wirtualnych magazynów, pozwalający graczom na posiadanie i z
 
 - `/magazyn`: Otwiera menu wirtualnych magazynów (alias: /mag).
 
+## Galeria
+<img width="582" height="358" alt="Zrzut ekranu 2026-01-21 122631" src="https://github.com/user-attachments/assets/0dab3aaa-9c95-42a0-b089-deb9a18bb99c" />
+<img width="511" height="383" alt="Zrzut ekranu 2026-01-21 115433" src="https://github.com/user-attachments/assets/b074424f-e8e6-4da2-8a87-4f90b69a3d16" />
+
 ---
 *Stworzone przez AXOO*
+
