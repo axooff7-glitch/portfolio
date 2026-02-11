@@ -12,9 +12,53 @@ Serce serwera. axoo-core to wysoce wydajny plugin typu essentials, który zarzą
 - **🛠️ Komendy Narzędziowe**: Szybki dostęp do Workbencha, Kowadła, EnderChesta, Leczenia (Heal), Karmienia (Feed) i Latania (Fly).
 - **🌐 Lokalizacja**: Wsparcie dla wielu języków (PL/EN), pozwalające graczom na wybór preferowanego języka interfejsu.
 
-## 🚀 Komendy i Uprawnienia
+## 🛠️ Komendy
 
-Ogromny zestaw ponad 100 komend pokrywający wszystkie potrzeby serwerowe. Szczegółowe uprawnienia pozwalają na precyzyjną kontrolę nad każdą funkcją.
+### 👤 Komendy Gracza
+| Komenda | Aliasty | Opis |
+| :--- | :--- | :--- |
+| `/home [nazwa]` | - | Teleportacja do ustawionego domu. |
+| `/sethome [nazwa]` | - | Ustawienie nowej lokalizacji domu. |
+| `/delhome [nazwa]` | - | Usunięcie zapisanego domu. |
+| `/spawn` | - | Teleportacja na główny spawn serwera. |
+| `/tpa <gracz>` | - | Prośba o teleportację do innego gracza. |
+| `/tpaccept` | `/tpyes` | Akceptacja przychodzącej prośby o TP. |
+| `/money` | `/bal`, `/balance` | Sprawdzenie stanu swojego konta. |
+| `/pay <gracz> <kwota>` | - | Przelanie pieniędzy innemu graczowi. |
+| `/msg <gracz> <tekst>` | `/w`, `/tell` | Prywatna wiadomość do gracza. |
+| `/r <wiadomosc>` | - | Szybka odpowiedź na ostatnią wiadomość. |
+| `/rynek` | `/market`, `/ah` | Otwiera Rynek Graczy. |
+| `/sklep` | `/shop` | Otwiera Sklep Serwerowy. |
+| `/kit [nazwa]` | - | Odbieranie dostępnych zestawów startowych. |
+| `/ec` | `/enderchest` | Dostęp do skrzyni kresu w dowolnym miejscu. |
+| `/workbench` | `/wb`, `/crafting` | Otwiera stół rzemieślniczy. |
+| `/anvil` | - | Otwiera kowadło w GUI. |
+| `/lang <pl/en>` | - | Zmiana języka komunikatów pluginu. |
+| `/social` | `/discord`, `/www` | Wyświetla linki do mediów społecznościowych. |
+
+### 🛡️ Komendy Administracyjne
+| Komenda | Opis | Uprawnienie |
+| :--- | :--- | :--- |
+| `/heal` | Leczy gracza (HP i Głód). | axoo.core.heal |
+| `/feed` | Całkowicie karmi gracza. | axoo.core.feed |
+| `/fly` | Przełącza tryb latania. | axoo.core.fly |
+| `/gm <0/1/2/3>` | Zmienia tryb gry (Creative/Survival itd.). | axoo.core.gm |
+| `/chat <clear/on/off>` | Zarządzanie widocznością czatu globalnego. | axoo.core.chat |
+| `/broadcast <tekst>` | Globalne ogłoszenie na czacie. | axoo.core.broadcast |
+| `/ogloszenie <tekst>` | Ogłoszenie wyświetlane na środku ekranu. | axoo.core.ogloszenie |
+| `/setspawn` | Ustawia punkt startowy serwera. | axoo.core.setspawn |
+| `/tp <gracz>` | Teleportacja do wskazanego gracza. | axoo.core.tp |
+| `/god` | Przełącza tryb nieśmiertelności. | axoo.core.god |
+| `/vanish` | Ukrywa administratora przed innymi graczami. | axoo.core.vanish |
+| `/eco <give/take/set>` | Zarządzanie saldem graczy (dla adminów). | axoo.core.eco |
+| `/invsee <gracz>` | Podgląd i edycja ekwipunku gracza. | axoo.core.invsee |
+| `/endersee <gracz>` | Podgląd skrzyni kresu innego gracza. | axoo.core.endersee |
+| `/speed <1-10>` | Zmiana prędkości poruszania się/latania. | axoo.core.speed |
+| `/kick <gracz>` | Wyrzucenie gracza z serwera. | axoo.core.kick |
+| `/nick <nazwa>` | Zmiana wyświetlanego pseudonimu. | axoo.core.nick |
+| `/axoo-core` | Przeładowanie konfiguracji pluginu. | axoo.core.admin |
+
+---
 
 ## Galeria
 <img width="682" height="507" alt="Zrzut ekranu 2026-02-11 191047" src="https://github.com/user-attachments/assets/22a3d897-45f5-4023-b341-f34549250415" />
@@ -26,6 +70,7 @@ Ogromny zestaw ponad 100 komend pokrywający wszystkie potrzeby serwerowe. Szcze
 
 ---
 *Stworzone przez AXOO*
+
 
 
 
