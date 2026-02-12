@@ -10,7 +10,7 @@ Witaj w moim repozytorium! Znajdziesz tutaj zbiór autorskich pluginów, stworzo
 4. [Axoo-Core](./Axoo-Core/) - Plugin podstawa pod serwer (sklep, rynek, kity, home)
 5. [Axoo-Kosz](./Axoo-Kosz/) - Plugin na kosz
 6. [Axoo-Czeki](./Axoo-Czeki/) - Plugin na czeki
-7. 
+7. [Axoo-Portfel](./Axoo-Portfel/) - Plugin na Portfel
 ## Autor
 AXOO
 
