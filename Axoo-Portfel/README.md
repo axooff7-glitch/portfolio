@@ -40,16 +40,16 @@ Zaawansowany system ekonomii i sklepu premium dla serwerów Minecraft, oferując
 <img width="728" height="246" alt="Zrzut ekranu 2026-02-12 125904" src="https://github.com/user-attachments/assets/c06d7d99-8845-4044-a390-5f1508a4bb96" />
 <img width="796" height="287" alt="Zrzut ekranu 2026-02-12 125900" src="https://github.com/user-attachments/assets/1d297d74-bd07-4f48-8eae-1535c0f9348d" />
 <img width="679" height="279" alt="Zrzut ekranu 2026-02-12 125912" src="https://github.com/user-attachments/assets/57dada19-2fdd-4334-a3c8-d9bdf55cb396" />
-<img width="543" height="349" alt="Zrzut ekranu 2026-02-12 131002" src="https://github.com/user-attachments/assets/3ac55d2e-0a90-4f53-b5fe-e60bf67e2a5d" />
-<img width="852" height="432" alt="Zrzut ekranu 2026-02-12 125950" src="https://github.com/user-attachments/assets/9c15a57c-2d20-4932-aaf8-0d50d68013c6" />
-<img width="686" height="286" alt="Zrzut ekranu 2026-02-12 125944" src="https://github.com/user-attachments/assets/cfff769e-dc3c-4a91-b6d4-2837d69681c0" />
-<img width="678" height="287" alt="Zrzut ekranu 2026-02-12 125935" src="https://github.com/user-attachments/assets/1809e3d8-083b-4d5f-ab00-c4c7f9734f0a" />
-<img width="360" height="181" alt="Zrzut ekranu 2026-02-12 125925" src="https://github.com/user-attachments/assets/88787e50-197c-4b89-b87b-e1ce2534cbf4" />
-<img width="776" height="499" alt="Zrzut ekranu 2026-02-12 125919" src="https://github.com/user-attachments/assets/92c636c8-8a47-4388-95f8-fc8c9cf8ba9d" />
+<img width="852" height="432" alt="Zrzut ekranu 2026-02-12 125950" src="https://github.com/user-attachments/assets/636a09f5-5f93-4a4b-b58a-fd547336ad2e" />
+<img width="686" height="286" alt="Zrzut ekranu 2026-02-12 125944" src="https://github.com/user-attachments/assets/5a6780d7-811f-4158-b5b1-c71f3a081df2" />
+<img width="678" height="287" alt="Zrzut ekranu 2026-02-12 125935" src="https://github.com/user-attachments/assets/d0e3a7b7-f806-4769-a5d5-e1cf2d10dcff" />
+<img width="360" height="181" alt="Zrzut ekranu 2026-02-12 125925" src="https://github.com/user-attachments/assets/31596afd-955d-4d4a-9c63-860ed6e46add" />
+<img width="776" height="499" alt="Zrzut ekranu 2026-02-12 125919" src="https://github.com/user-attachments/assets/8a75c57f-2cd0-418a-8ad7-28e0cd77c0f1" />
 
 ---
 
 ## ✨ Informacje o projekcie
 
 *Stworzone przez AXOO*
+
 
