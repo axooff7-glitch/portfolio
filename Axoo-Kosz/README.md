@@ -37,13 +37,11 @@ messages:
   no-permission: "&cNie masz uprawnień!"
 ```
 
-## 🚀 Instalacja
+## Galeria
+<img width="687" height="501" alt="Zrzut ekranu 2026-02-12 125721" src="https://github.com/user-attachments/assets/920afcff-c84a-4fce-b735-e1948a9b766c" />
 
-1. Pobierz plik `axoo-kosz-1.0.0-shaded.jar`.
-2. Wrzuć go do folderu `/plugins` na swoim serwerze.
-3. Zrestartuj serwer lub przeładuj pluginy.
-4. Ciesz się czystym ekwipunkiem!
 
 ## ✨ Informacje o projekcie
 
 *Stworzone przez AXOO*
+
