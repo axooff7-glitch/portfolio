@@ -8,7 +8,7 @@ Witaj w moim repozytorium! Znajdziesz tutaj zbiór autorskich pluginów, stworzo
 2. [East-Magazyn](./East-Magazyn/) - Plugin na Magazyny
 3. [Axoo-Enderchest](./Axoo-Enderchest) - Plugin na Powiększone enderchesty.
 4. [Axoo-Core](./Axoo-Core/) - Plugin podstawa pod serwer (sklep, rynek, kity, home)
-5. [Axoo-Kosz](./Axoo-Kosz/) Plugin na kosz
+5. [Axoo-Kosz](./Axoo-Kosz/) - Plugin na kosz
 ## Autor
 AXOO
 
