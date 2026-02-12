@@ -1,48 +1,43 @@
-# AxooPortfel 💰
+# axoo-czeki 📜
 
-Zaawansowany system ekonomii i sklepu premium dla serwerów Minecraft, oferujący w pełni konfigurowalne menu GUI, systemy rang oraz rankingi doładowań.
+Zaawansowany system fizycznych czeków bankowych dla serwerów Minecraft, pozwalający na bezpieczny handel oraz przekazywanie gotówki między graczami w formie fizycznych przedmiotów.
 
 ## ✨ Funkcje
 
-- **🛍️ Sklep Premium**: Nowoczesne menu GUI do zakupu rang, kluczy i przedmiotów specjalnych.
-- **🏆 Ranking Doładowań**: System `/topka`, który wyświetla graczy z największą sumą wpłat wraz z ich głowami.
-- **🎨 Pełna Personalizacja**: Możliwość edycji każdego elementu GUI (sloty, materiały, tytuły, ramki) bezpośrednio w `config.yml`.
-- **🛡️ Bezpieczne Zakupy**: System potwierdzeń "Tak/Nie" przed każdą transakcją, chroniący graczy przed pomyłkami.
-- **📈 Placeholders**: Integracja z PlaceholderAPI do wyświetlania stanu konta i topki doładowań w dowolnym miejscu.
-- **🔗 Integracja z LuckPerms**: Automatyczne nadawanie rang i uprawnień po zakupie w sklepie.
+- **📂 Fizyczne Czeki**: Gracze mogą tworzyć czeki, które są fizycznymi przedmiotami (papier), co ułatwia handel i ekonomię.
+- **💸 Automatyczny Podatek**: System automatycznie pobiera **5% podatku** przy wypłacie czeku (konfigurowalne), co wspiera gospodarkę serwera.
+- **🛡️ Bezpieczeństwo (PersistentData)**: Dane o wartości i autorze czeku są zapisywane bezpośrednio w przedmiocie za pomocą `PersistentDataContainer`, co wyklucza możliwość podrabiania czeków (np. przez kowadło).
+- **🎨 Pełna Personalizacja**: Konfiguracja pozwala na zmianę materiału, nazwy, lore (opisów) oraz wszystkich wiadomości.
+- **🔗 Integracja Ekonomii**: Pełne wsparcie dla **Vault** oraz **AxooCore** (wykrywa dostępnego dostawcę automatycznie).
 
 ## 🛠️ Komendy
 
-### 👤 Komendy Gracza
-
-| Komenda | Aliasty | Opis |
-| :--- | :--- | :--- |
-| `/skleppremium` | `/sklep`, `/portfel` | Otwiera główne menu sklepu premium. |
-| `/topka` | `/topkadow` | Wyświetla ranking najhojniejszych graczy (doładowań). |
-
-### 🛡️ Komendy Administracyjne
-
 | Komenda | Opis | Uprawnienie |
 | :--- | :--- | :--- |
-| `/aportfel add <nick> <kwota>` | Dodaje środki do portfela gracza. | `axooportfel.admin` |
-| `/aportfel set <nick> <kwota>` | Ustawia stan konta na konkretną wartość. | `axooportfel.admin` |
-| `/aportfel sprawdz <nick>` | Pokazuje stan konta i sumę doładowań gracza. | `axooportfel.admin` |
+| `/czek <kwota>` | Tworzy czek o podanej wartości i pobiera kwotę z Twojego konta. | - |
+| `/adminczek <kwota>` | Tworzy czek administracyjny (darmowy i bez autora). | `axooczeki.admin` |
+| `/czeki-reload` | Przeładowuje plik konfiguracyjny pluginu. | `axooczeki.admin` |
 
-## 📊 Placeholders (PlaceholderAPI)
+## ⚙️ Przykład Konfiguracji Itemu
 
-| Placeholder | Opis |
-| :--- | :--- |
-| `%axoo_wallet_stan_konta%` | Aktualna kwota w portfelu gracza. |
-| `%axoo_wallet_topka_doladowan_[X]%` | Gracz i kwota z miejsca X w rankingu. |
+```yaml
+check-item:
+  material: PAPER
+  name: "&6&lᴄᴢᴇᴋ"
+  lore:
+    - "&fWartość: &e{VALUE}$"
+    - "&fAutor: &7{AUTHOR}"
+    - "&fPodatek przy wypłacie: &c5%"
+    - "&eKliknij PPM, aby wypłacić!"
+  admin-author: "&cCONSOLE"
+  enchanted: true
+```
 
-## Galeria
-<img width="543" height="349" alt="image" src="https://github.com/user-attachments/assets/88cd93fb-4a17-4271-9f24-f78a1f892eba" />
+## Galeria 
+<img width="543" height="349" alt="Zrzut ekranu 2026-02-12 131002" src="https://github.com/user-attachments/assets/f9b9f378-c632-46cb-9c73-9f4ebc420ff4" />
 
 ---
 
 ## ✨ Informacje o projekcie
 
 *Stworzone przez AXOO*
-
-
-
